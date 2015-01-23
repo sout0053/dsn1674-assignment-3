@@ -77,3 +77,7 @@ footer {
   font-weight: normal;
   font-family: Arial, sansa serif;
 }
+
+img {
+  padding: 0;
+}
