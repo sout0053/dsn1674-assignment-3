@@ -2,8 +2,21 @@ html {
   background-color: #dbd6cf;
 }
 
-h1, h2 {
+h1 {
   color: #79756f;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+h2 {
+  color: #79756f;
+  font-size: 1.5rem;
+  font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+  color: #79756f;
+  font-family: 'Oswald', sans-serif;
 }
 
 ol {
@@ -14,9 +27,27 @@ ol {
 }
 
 a:hover {
-#ff3333
+ color: #ff3333;
 }
 
 ul {
  list-style-type: lower-roman;
+}
+
+p{
+ font-family: Arial, sans serif;
+ font-size: 0.8rem;
+}
+
+ol {
+  font-size: 1rem;
+}
+
+p1 {
+  font-style: italic;
+}
+
+p2 {
+  font-size: 1rem;
+  font-style: italic;
 }
