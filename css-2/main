@@ -52,10 +52,6 @@ p2 {
   font-style: italic;
 }
 
-dt {
-  font-style: bold;
-}
-
 blockquote {
   font-style: italic;
   font-size: 1.5rem;
@@ -68,4 +64,15 @@ cite {
 
 footer {
   text-align: right;
+}
+
+.info  {
+  font-weight: bold;
+  font-family: Arial, sans serif;
+  font-size: 0.8rem;
+}
+
+.info2 {
+  font-size: 0.8rem;
+  font-weight: normal;
 }
