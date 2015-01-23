@@ -1,0 +1,22 @@
+html {
+  background-color: #dbd6cf;
+}
+
+h1, h2 {
+  color: #79756f;
+}
+
+ol {
+ color: #713842;
+ text-decoration: underline;
+ list-style-type: none;
+ padding: 0;
+}
+
+a:hover {
+#ff3333
+}
+
+ul {
+ list-style-type: lower-roman;
+}
