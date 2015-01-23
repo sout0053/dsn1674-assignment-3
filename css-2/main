@@ -75,4 +75,5 @@ footer {
 .info2 {
   font-size: 0.8rem;
   font-weight: normal;
+  font-family: Arial, sansa serif;
 }
