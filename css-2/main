@@ -51,3 +51,21 @@ p2 {
   font-size: 1rem;
   font-style: italic;
 }
+
+dt {
+  font-style: bold;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
+cite {
+  font-style: italic;
+  font-size: 0.5rem;
+}
+
+footer {
+  text-align: right;
+}
