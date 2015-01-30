@@ -2,13 +2,19 @@ html {
   background-color: #dbd6cf;
 }
 
+body {
+  margin: 0;
+}
+
 h1 {
-  color: #79756f;
+  text-align: center;
+  margin: 0;
+  color: white;
   font-family: 'Oswald', sans-serif;
 }
 
 h2 {
-  color: #79756f;
+  color: white;
   font-size: 1.5rem;
   font-family: 'Oswald', sans-serif;
 }
@@ -20,9 +26,12 @@ h3 {
 
 ol {
  color: #713842;
- text-decoration: underline;
  list-style-type: none;
  padding: 0;
+}
+
+a {
+  text-decoration: none;
 }
 
 a:hover {
@@ -52,6 +61,7 @@ p2 {
 }
 
 blockquote {
+  font-family: georgia, serif;
   font-style: italic;
   font-size: 1.3rem;
 }
@@ -79,4 +89,38 @@ footer {
 
 img {
   padding: 0;
+}
+
+header {
+  margin: 0;
+  display: block;
+  background-color: #79756f;
+}
+
+footer1 {
+  text-align: left;
+  margin: 0;
+  display: block;
+  background-color: #79756f;
+}
+
+figure {
+  display: inline-block;
+  padding: 0.5em 0.75em;
+  border-radius: 0.4em;
+  border: 2px solid grey;
+}
+
+nav li {
+
+  display: inline;
+}
+
+nav a {
+  border-radius: 5px;
+  display: inline-block;
+  padding: 0.5em;
+  background-color: #763837;
+  color: white;
+  text-decporation: none;
 }
